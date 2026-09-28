@@ -125,7 +125,7 @@ if (contactForm) {
          * 519XXXXXXXX
          */
 
-        const whatsappNumber = "519XXXXXXXX";
+        const whatsappNumber = "51936773650";
 
 
         const text =
@@ -173,7 +173,7 @@ const whatsappDirect =
 
 if (whatsappDirect) {
 
-    const whatsappNumber = "519XXXXXXXX";
+    const whatsappNumber = "51936773650";
 
     if (!whatsappNumber.includes("X")) {
 
